@@ -21,7 +21,8 @@ Write a script to handle requests. This example uses Python, but feel free to us
 Refer to [bot.py](https://github.com/permach-tech/Discord-Tarot-Card/blob/main/bot.py).<br>
 Make sure to declare your **Token**, **Guild ID** (Discord server ID), and **HTTP Trigger URL** (used in the next step).
 
-Test locally to ensure your bot is up and running and ready to recieve request!<br>
+Test locally to ensure your bot is up and running and ready to recieve requests!
+
 ![bot_ready](https://github.com/permach-tech/Discord-Tarot-Card/blob/main/screenshots/bot_ready.png)<br>
 ![bot_online](https://github.com/permach-tech/Discord-Tarot-Card/blob/main/screenshots/bot_online.png)
 
