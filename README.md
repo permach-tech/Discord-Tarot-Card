@@ -21,11 +21,12 @@ Write a script to handle requests. This example uses Python, but feel free to us
 Refer to [bot.py](https://github.com/permach-tech/Discord-Tarot-Card/blob/main/bot.py).<br>
 Make sure to declare your **Token**, **Guild ID** (Discord server ID), and **HTTP Trigger URL** (used in the next step).
 
-## Step 3: Deploy a Serverless Function
-Set up an **Azure Function App** (or another SaaS/on-prem solution) to process HTTP POST requests from your bot. This function will randomly select a Tarot card and send the result to your Discord server.
 Test locally to ensure your bot is up and running and ready to recieve request!
 [bot_ready](https://github.com/permach-tech/Discord-Tarot-Card/blob/main/screenshots/bot_ready.png)
 [bot_online](https://github.com/permach-tech/Discord-Tarot-Card/blob/main/screenshots/bot_online.png)
+
+## Step 3: Deploy a Serverless Function
+Set up an **Azure Function App** (or another SaaS/on-prem solution) to process HTTP POST requests from your bot. This function will randomly select a Tarot card and send the result to your Discord server.
 
 ### Resources
 [Create your Function App](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal?pivots=programming-language-powershell)<br>
