@@ -23,3 +23,8 @@ Make sure to declare your **Token**, **Guild ID** (Discord server ID), and **HTT
 
 ## Step 3: Deploy a Serverless Function
 Set up an **Azure Function App** (or another SaaS/on-prem solution) to process HTTP POST requests from your bot. This function will randomly select a Tarot card and send the result to your Discord server.
+
+### Resources
+[Create your Function App](https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal?pivots=programming-language-powershell)<br>
+[Discord Bot Documentation](https://discord.com/developers/docs/quick-start/getting-started)<br>
+[OAUTH](https://discord.com/developers/docs/topics/oauth2)
