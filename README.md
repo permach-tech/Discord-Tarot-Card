@@ -4,5 +4,5 @@ Fun Discord project for you and your friends to get a Tarot card reading using t
 ![command](https://github.com/permach-tech/Discord-Tarot-Card/blob/main/screenshots/command.png)
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/permach-tech/Discord-Tarot-Card/blob/main/screenshots/result.png">
+  <img width="257" height="402" src="https://github.com/permach-tech/Discord-Tarot-Card/blob/main/screenshots/result.png">
 </p>
