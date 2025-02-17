@@ -10,6 +10,8 @@ GUILD_ID = os.environ.get("GUILD_ID")
 HTTP_TRIGGER_URL = os.environ.get("HTTP_TRIGGER_URL")
 
 intents = discord.Intents.default()
+intents.message_content = True  # Enable message content intent
+
 bot = commands.Bot(command_prefix="!", intents=intents)
 tree = bot.tree  # Using app_commands.CommandTree
 
